@@ -1,4 +1,4 @@
-<h1>Online Learning and Training E-Learning Application</h1>
+<h1 style="text-align: center;">Online Learning and Training E-Learning Application</h1>
     <p>The Online learning and Training application is the online learning website designed specifically
         for the academic institution. It provides the most effective link between students and the
         institution. Compared to other online learning platforms, we offer the course at no cost and have lifetime
