@@ -8,3 +8,11 @@
         module where the candidate has low scores. Complete the content of the module and the module will redirect to
         the questionnaire page. After completing the modules and the questionnaire, the certificate will be created. The
         certificate shall be issued by the institution which granted the authorization.</p>
+          <h3>Advantages of OLAT</h3>
+          <ul type="square">
+        <li>Quiz with various sets of questions to prevent professional misconduct with other students.</li>
+        <li>Completelu free for students of the institution.</li>
+        <li>Authorized certificate by the institution.</li>
+        <li>Monitors students by prompting them to complete tasks properly and all details are stored in the databases.
+        </li>
+    </ul>
